@@ -3,8 +3,8 @@ sudo apt-get install curl
 curl -sL https://deb.nodesource.com/setup_4.x | sudo -E bash -
 sudo apt-get install --yes nodejs
 
-sudo apt-get install libavahi-compat-libdnssd-dev
-sudo apt-get install mosquitto mosquitto-clients
+sudo apt-get install -y libavahi-compat-libdnssd-dev
+sudo apt-get install -y mosquitto mosquitto-clients
 
 
 
