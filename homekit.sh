@@ -9,7 +9,7 @@ sudo apt-get install -y mosquitto mosquitto-clients
 
 
 sudo npm install -g homebridge
-sudo npm install -g homebridge-fakebulb
+#sudo npm install -g homebridge-fakebulb
 sudo npm install -g homebridge-mqtt
 sudo npm install -g homebridge-http
 mkdir ~/.homebridge
